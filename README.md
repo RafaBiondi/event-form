@@ -1,7 +1,7 @@
 # event-form
 
 Nesse projeto, foi estudado durante seu desenvolvimento, formulários, tipo de inputs, métodos, atributos como, "action", "value", "name", "type", "id" etc.
-Foi aprendido também, <fieldset> e <legend> no HTML e "::before" no CSS.
+Foi aprendido também, "fieldset" e "legend" no HTML e "::before" no CSS.
 Acessibilidade, contraste, através do devtools, descansando o mouse sobre o elemento, obtenho a resposta sobre a qualidade do contraste.
 
 <!--
